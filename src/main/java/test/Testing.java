@@ -9,6 +9,5 @@ public class Testing {
 		if(a == 2) {
 			System.out.println("Condition check");			
 		}
-		System.out.println("Done");
 	}
 }
